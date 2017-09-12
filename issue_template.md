@@ -43,7 +43,7 @@ Cuantanos a que te dedicas y tu experiencia
 * Facebook: 
 * Google +: 
 * Twitter:
-* LinkedIn: www.linkedin.com/in/jcayquipa
+* LinkedIn: 
 
 # Foto 
 
