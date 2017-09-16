@@ -4,6 +4,11 @@
 
 [Agrega aquí el título de tu platica]
 
+## Tipo de charla
+[ Actualmente consideramos solo dos formatos, si el que estas pensando no esta listado, explícalo con tus palabras
+Meetup - 30 mins
+Taller - 2hrs o más ]
+
 ## Descripción de la charla
 
 [Descripción del contenido de la charla, del tema o los temas que te interesa compartir]
@@ -18,7 +23,7 @@
 
 ## Demo
 
-[El contenido del demo, que funcionalidad va a tener y como va a ser usado por otros.] 
+[El contenido del demo, que funcionalidad va a tener y cómo va a ser usado por otros.] 
 
 
 # Acerca de ti
@@ -33,7 +38,7 @@
 
 ## Bio completa
 
-[En la bio completa puedes agregar mas informacion acerca de ti para que los asistentes te conozcan mejor]
+[En la bio completa puedes agregar mas información acerca de ti para que los asistentes te conozcan mejor]
  
 ## Puesto/Experiencia
  
